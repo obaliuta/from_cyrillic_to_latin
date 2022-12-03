@@ -1,5 +1,5 @@
 # transliteration_from_cyrillic
-Ukrainian Cyrillic to Latin transliteration script - Top 100 Richest Ukrainians by Forbes
+Ukrainian Cyrillic to Latin transliteration script and translating with Google Translate api - Top 100 Richest Ukrainians by Forbes
 
 Dataset link:
 
